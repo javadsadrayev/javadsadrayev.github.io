@@ -1,0 +1,50 @@
+body {
+	background-color: #e2e2e2;
+}
+.panel {
+	margin: 0;
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 50px;
+	background-color: black;
+	color: #ffffff;
+}
+.head {
+	display: inline-block;
+	height: 50px;
+	width: 10%;
+}
+.snow {
+	margin: 0;
+	margin-top: 11px;
+	font: normal 27px/1 "Brush Script Std", cursive;
+	text-align: center;
+}
+.link {
+	position: relative;
+	top: -3px;
+	left: 35%;
+	display: inline-block;
+	height: 50px;
+	width: 50%;
+	text-align: right;
+}
+.link-1 {
+	display: inline-block;
+	margin: 0;
+	margin-top: 18px;
+}
+a {
+	display: inline-block;
+	margin-left: 10px;
+	font: normal 15px/1 "Halvetica", sans-serif;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #ffffff;
+}
+.text {
+	margin-top: 60px;
+	text-align: justify;
+}

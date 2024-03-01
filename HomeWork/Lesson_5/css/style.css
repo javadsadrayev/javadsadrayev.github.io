@@ -1,0 +1,19 @@
+body {
+	columns: #333;
+}
+h1 {
+	margin-top: 140px;
+	margin-bottom: 100px;
+	font-size: 36px;
+}
+.row {
+	text-align: center;
+}
+.img {
+	height: 136px;
+}
+.row p {
+	margin-top: 31px;
+	margin-bottom: 0;
+	font-size: 18px;
+}

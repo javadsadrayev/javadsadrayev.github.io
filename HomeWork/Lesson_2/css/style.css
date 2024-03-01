@@ -1,0 +1,30 @@
+body{
+	background-color: #ffe09e;
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+p {
+	text-align: justify;
+}
+
+a {
+	display: block;
+	text-align: center;
+	text-decoration: none;
+	font-weight: bold;: ;
+}
+.span-1 {
+	font-weight: bold;
+}
+.span-2 {
+	font-style: italic;
+}
+.span-3 {
+	text-decoration: underline;
+}
+.span-4 {
+	text-decoration: line-through;
+}

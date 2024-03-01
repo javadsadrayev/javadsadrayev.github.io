@@ -1,0 +1,55 @@
+body {
+	color: #333;
+}
+.header {
+	font-size: 24px;
+	line-height: 1.5;
+	margin-bottom: 60px;
+}
+.header span {
+	display: block;
+}
+.section {
+	padding: 30px 0;
+}
+.video {
+	margin-bottom: 10px;
+}
+.form {
+	border: 5px solid #3c3cdd;
+	padding: 27px 20px;
+}
+.form-header {
+	font-size: 20px;
+	font-weight: 900;
+}
+.form-input {
+	height: 49px;
+	margin-bottom: 10px;
+}
+.form-btn button, .feature-btn button {
+	background-color: #3c3cdd;
+	height: 64px;
+	margin-top: 10px;
+}
+.section-header, .clients-header {
+	font-size: 24px;
+	font-weight: 900;
+}
+.feature {
+	margin: 60px auto;
+}
+.feature p {
+	font-weight: bold;
+	line-height: 1;
+	margin-top: 20px;
+}
+.clients-header {
+	margin-top: 80px;
+}
+.clients {
+	margin: 70px auto;
+}
+.clients-photo img {
+	margin-bottom: 30px;
+}
