@@ -14,4 +14,4 @@
 
 [Урок 9](https://javadsadrayev.github.io/HomeWork/Lesson_6) - Первый сайт из урока 7, но с использованием Bootstrap
 
-[Урок 10](https://javadsadrayev.github.io/HomeWork/Lesson_7)- Знакомство с Less
+[Урок 10](https://github.com/javadsadrayev/javadsadrayev.github.io/blob/main/HomeWork/Lesson_7/main.less)- Знакомство с Less
