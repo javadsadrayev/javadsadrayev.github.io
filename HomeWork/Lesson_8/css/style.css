@@ -1,0 +1,77 @@
+body {
+  background-color: #ebf4f4;
+}
+.form {
+  margin: 97px auto;
+  padding: 0 30px;
+  border-left: 1px solid #cfdede;
+  border-bottom: 1px solid #cfdede;
+  border-right: 1px solid #cfdede;
+  height: 373px;
+  width: 320px;
+  background-color: #fafdfd;
+}
+.form .none {
+  border-bottom: 1px solid #cfdede;
+  border-right: 1px solid #e9f6f6;
+  border-left: 1px solid #e9f6f6;
+  position: absolute;
+  margin-left: -30px;
+  height: 3px;
+  width: 320px;
+  background-color: #e9f6f6;
+}
+.form-header {
+  position: relative;
+  z-index: 4;
+  padding: 6px;
+  background-color: #10b3b3;
+  height: 25px;
+  width: 150px;
+}
+.form-header h2 {
+  text-align: center;
+  font-family: 'Arial';
+  font-size: 12px;
+  font-weight: 750;
+  color: #e9f6f6;
+}
+.form button {
+  display: block;
+  border: 0;
+  margin-top: 34px;
+  font-size: 16px;
+  font-weight: 700;
+  height: 45px;
+  width: 260px;
+  background-color: #10c5c5;
+}
+.input input {
+  width: 260px;
+  height: 32px;
+  background-color: #e9f6f6;
+}
+.input input::placeholder {
+  font-style: italic;
+  font-size: 12px;
+  color: #777;
+}
+.input p {
+  font-size: 12px;
+  font-weight: bold;
+}
+.input span {
+  color: #01b3b3;
+}
+.input .p1 {
+  margin-top: 29px;
+  margin-bottom: 10px;
+}
+.input .p2 {
+  margin-top: 13px;
+  margin-bottom: 12px;
+}
+.input .p3 {
+  margin-top: 14px;
+  margin-bottom: 11px;
+}
