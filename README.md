@@ -28,7 +28,7 @@
 
 [Урок 17](https://javadsadrayev.github.io/HomeWork/Lesson_13) - Практика. Эффекты при наведении и адаптив первого экрана
 
-[Урок 18](https://javadsadrayev.github.io/HomeWork/Lesson_14) - Слайдер на сайте (Некорректно отображается на Github Gist)
+[Урок 18](https://javadsadrayev.github.io/HomeWork/Lesson_14) - Слайдер на сайте
 
 [Урок 19](https://javadsadrayev.github.io/HomeWork/Lesson_15) - Практика. Верстка блока с преимуществами. Слайдер.
 
