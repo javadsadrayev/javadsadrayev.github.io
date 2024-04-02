@@ -34,10 +34,10 @@
 
 [Урок 20](https://javadsadrayev.github.io/HomeWork/Lesson_16) - Всплывающие окна.
 
-[Урок 21](https://javadsadrayev.github.io/HomeWork/Lesson_17) - Практика. Верстка всплывающих окон на сайте (Есть ошибка, дорабатывается)
+[Урок 21](https://javadsadrayev.github.io/HomeWork/Lesson_17) - Практика. Верстка всплывающих окон на сайте 
 
 [Урок 22.1](https://javadsadrayev.github.io/HomeWork/Lesson_18/Task_1) и [Урок 22.2](https://javadsadrayev.github.io/HomeWork/Lesson_18/Task_2) - Табы и аккордеон на сайте.
 
-[Урок 23](https://javadsadrayev.github.io/HomeWork/Lesson_19) - Практика. Верстка блока с ценами
+[Урок 23](https://javadsadrayev.github.io/HomeWork/Lesson_19) - Практика. Верстка блока с ценами (Есть ошибка, дорабатывается)
 
 [Урок 24](https://javadsadrayev.github.io/HomeWork/Lesson_20) - Анимация на CSS3.
