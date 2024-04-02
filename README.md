@@ -30,11 +30,11 @@
 
 [Урок 18](https://javadsadrayev.github.io/HomeWork/Lesson_14) - Слайдер на сайте (Некорректно отображается на Github Gist)
 
-[Урок 19](https://javadsadrayev.github.io/HomeWork/Lesson_15) - Практика. Верстка блока с преимуществами. Слайдер. (Есть ошибка, дорабатывается)
+[Урок 19](https://javadsadrayev.github.io/HomeWork/Lesson_15) - Практика. Верстка блока с преимуществами. Слайдер.
 
 [Урок 20](https://javadsadrayev.github.io/HomeWork/Lesson_16) - Всплывающие окна.
 
-[Урок 21](https://javadsadrayev.github.io/HomeWork/Lesson_10) - Практика. Верстка всплывающих окон на сайте
+[Урок 21](https://javadsadrayev.github.io/HomeWork/Lesson_10) - Практика. Верстка всплывающих окон на сайте (Есть ошибка, дорабатывается)
 
 [Урок 22.1](https://javadsadrayev.github.io/HomeWork/Lesson_18/Task_1) и [Урок 22.2](https://javadsadrayev.github.io/HomeWork/Lesson_18/Task_2) - Табы и аккордеон на сайте.
 
