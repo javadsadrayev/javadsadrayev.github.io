@@ -4,7 +4,7 @@
 
 [Урок 4](https://javadsadrayev.github.io/HomeWork/Lesson_1/) - Книга на онли HTML
 
-[Урок 5](https://javadsadrayev.github.io/HomeWork/Lesson_2) Книга HTML + CSS
+[Урок 5](https://javadsadrayev.github.io/HomeWork/Lesson_2) - Книга HTML + CSS
 
 [Урок 6.1](https://javadsadrayev.github.io/HomeWork/Lesson_3/Task_1) и [Урок 6.2](https://javadsadrayev.github.io/HomeWork/Lesson_3/Task_2) - Уроки позиционирования
 
