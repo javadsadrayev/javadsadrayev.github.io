@@ -38,6 +38,6 @@
 
 [Урок 22.1](https://javadsadrayev.github.io/HomeWork/Lesson_18/Task_1) и [Урок 22.2](https://javadsadrayev.github.io/HomeWork/Lesson_18/Task_2) - Табы и аккордеон на сайте.
 
-[Урок 23](https://javadsadrayev.github.io/HomeWork/Lesson_19) - Практика. Верстка блока с ценами (Есть ошибка, дорабатывается)
+[Урок 23](https://javadsadrayev.github.io/HomeWork/Lesson_19) - Практика. Верстка блока с ценами
 
 [Урок 24](https://javadsadrayev.github.io/HomeWork/Lesson_20) - Анимация на CSS3.
