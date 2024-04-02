@@ -19,3 +19,25 @@
 [Урок 12](https://javadsadrayev.github.io/HomeWork/Lesson_8) - Верстка в PixelPerfect
 
 [Урок 13](https://javadsadrayev.github.io/HomeWork/Lesson_9) - Первая практика. Вёрстка шапки макета
+
+[Урок 14](https://javadsadrayev.github.io/HomeWork/Lesson_10) - Подключение шрифтов
+
+[Урок 15](https://javadsadrayev.github.io/HomeWork/Lesson_11) - Практика. Подключение шрифтов, вёрстка первого экрана.
+
+[Урок 16](https://javadsadrayev.github.io/HomeWork/Lesson_12) - Псевдоклассы и псевдоэлементы
+
+[Урок 17](https://javadsadrayev.github.io/HomeWork/Lesson_13) - Практика. Эффекты при наведении и адаптив первого экрана
+
+[Урок 18](https://javadsadrayev.github.io/HomeWork/Lesson_14) - Слайдер на сайте (Некорректно отображается на Github Gist)
+
+[Урок 19](https://javadsadrayev.github.io/HomeWork/Lesson_15) - Практика. Верстка блока с преимуществами. Слайдер. (Есть ошибка, дорабатывается)
+
+[Урок 20](https://javadsadrayev.github.io/HomeWork/Lesson_16) - Всплывающие окна.
+
+[Урок 21](https://javadsadrayev.github.io/HomeWork/Lesson_10) - Практика. Верстка всплывающих окон на сайте
+
+[Урок 22.1](https://javadsadrayev.github.io/HomeWork/Lesson_18/Task_1) и [Урок 22.2](https://javadsadrayev.github.io/HomeWork/Lesson_18/Task_2) - Табы и аккордеон на сайте.
+
+[Урок 23](https://javadsadrayev.github.io/HomeWork/Lesson_19) - Практика. Верстка блока с ценами
+
+[Урок 24](https://javadsadrayev.github.io/HomeWork/Lesson_20) - Анимация на CSS3.
