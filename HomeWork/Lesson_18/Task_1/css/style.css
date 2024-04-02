@@ -1,0 +1,52 @@
+body {
+  font-family: 'Ubuntu' sans-serif;
+  background: url(../img/bg.png);
+}
+.header {
+  margin-top: 80px;
+  text-align: center;
+  text-transform: uppercase;
+  line-height: 1;
+  color: #0bbaf0;
+}
+.header-strong {
+  font-size: 36px;
+  font-weight: 900;
+}
+.header-span {
+  font-size: 24px;
+}
+.line {
+  margin: 20px auto 30px;
+  width: 125px;
+  border-top: 0.5px solid silver;
+}
+.accordion {
+  margin: 1px auto;
+  max-width: 860px;
+  --bs-accordion-btn-icon: none;
+  --bs-accordion-btn-active-icon: none;
+}
+.accordion-button {
+  margin-bottom: 3px;
+  color: #fff;
+  background-color: #0bbaf0;
+  font-size: 23px;
+}
+.accordion-button:not(.collapsed) {
+  color: #fff;
+  background-color: #0bbaf0;
+}
+.accordion-button:focus {
+  box-shadow: none;
+}
+.accordion-body {
+  border: 3px solid silver;
+  border-top: none;
+  border-radius: 10px;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  margin: -2px auto;
+  max-width: 840px;
+  font-size: 22px;
+}

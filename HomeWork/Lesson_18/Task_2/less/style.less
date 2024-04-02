@@ -1,0 +1,110 @@
+body {
+	font-family: 'MyriadPro-Regular' sans-serif;
+	background: url(../img/bg.png) no-repeat;
+	color: #fff;
+	-moz-background-size: 100%; /* Firefox 3.6+ */
+	-webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
+  -o-background-size: 100%; /* Opera 9.6+ */
+  background-size: 100%; /* Современные браузеры */
+}
+.tabs {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translateX(-50%) translateY(-50%);
+	font-size: 24px;
+}
+.nav-tabs {
+	--bs-nav-tabs-border-width: none;
+}
+.nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link {
+	color: #fff;
+	background-color: #03a5da;
+	border: none;
+}
+.nav-tabs .nav-link {
+	border-top-right-radius: 5px;
+	border-top-left-radius: 5px;
+	margin-left: 10px;
+	border: none;
+	color: #080808;
+	background-color: #fff;
+}
+#login-tab {
+	margin-left: 30px;
+	padding: 8px 20px;
+}
+.tab-content {
+	border-radius: 5px;
+	width: 630px;
+	height: 410px;
+	padding: 25px 23px;
+	background-color: #03a5da;
+}
+.home {
+	position: fixed;
+	border-radius: 5px;
+	padding: 40px 0;
+	width: 580px;
+	height: 364px;
+	background-color: #000;
+	& .input {
+		display: block;
+		margin: 30px auto;
+		padding-left: 23px;
+		width: 480px;
+		height: 60px;
+		border-radius: 5px;
+		border: none;
+		background: url(../img/input-bg.png);
+		color: #fff;
+		&:focus {
+			outline: none;
+		}
+	}
+	& a {
+		display: block;
+		margin-top: -10px;
+		margin-left: 74px;
+		font-size: 15px;
+		text-decoration: none;
+		color: red;
+	}
+	& .save-me {
+		display: inline-block;
+		margin-top: 50px;
+		font-size: 15px;
+		margin-left: 74px;
+		& .check {
+			border-radius: 2px;
+		}
+		& label {
+			margin-left: 10px;
+			color: #6f6d6d;
+		}
+	}
+	.btn-all {
+		display: inline-block;
+		position: absolute;
+		right: -38px;
+		bottom: 12px;
+		& .login-all {
+			border: none;
+			width: 127px;
+			height: 41px;
+			color: #fff;
+			background-color: #a51302;
+			transition: all 0.2s;
+			box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.5);
+			&:hover {
+				background: darken(#a51302, 15%);
+			}
+		}
+		& .signin-button {
+			width: 260px;
+		}
+	} 
+}
+::placeholder { 
+  color: #fff;
+}
