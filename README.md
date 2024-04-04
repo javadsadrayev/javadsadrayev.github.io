@@ -43,3 +43,5 @@
 [Урок 24](https://javadsadrayev.github.io/HomeWork/Lesson_20) - Анимация на CSS3.
 
 [Урок 25](https://javadsadrayev.github.io/HomeWork/Lesson_21) - Практика. Верстка блока с отзывами
+
+[Урок 26](https://javadsadrayev.github.io/HomeWork/Lesson_22) - Видео-фон на сайте.
