@@ -45,3 +45,5 @@
 [Урок 25](https://javadsadrayev.github.io/HomeWork/Lesson_21) - Практика. Верстка блока с отзывами
 
 [Урок 26](https://javadsadrayev.github.io/HomeWork/Lesson_22) - Видео-фон на сайте.
+
+[Урок 27](https://javadsadrayev.github.io/HomeWork/Lesson_23) - Практика. Доверстали блок с отзывами
