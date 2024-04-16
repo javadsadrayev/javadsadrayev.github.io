@@ -49,3 +49,5 @@
 [Урок 27](https://javadsadrayev.github.io/HomeWork/Lesson_23) - Практика. Доверстали блок с отзывами
 
 [Урок 29](https://javadsadrayev.github.io/HomeWork/Lesson_25) - Практика. Верстаем схему работы и все включено
+
+[Урок 30](https://javadsadrayev.github.io/HomeWork/Lesson_26) - Гео-карты для сайта.
