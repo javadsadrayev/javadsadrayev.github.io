@@ -1,0 +1,56 @@
+html {
+  font-size: 10px;
+}
+body {
+  font-family: 'OpenSans' sans-serif;
+  line-height: 1;
+}
+.container {
+  margin-top: 10rem;
+}
+.contacts {
+  font-size: 1.8rem;
+  text-align: center;
+  padding: 7rem;
+  height: 400px;
+  background-color: #c60b0b;
+  color: #fff;
+}
+.contacts h2 {
+  font-weight: 200;
+  font-size: 3rem;
+}
+.contacts a {
+  color: #fff;
+}
+.contacts-mini {
+  margin-top: 2rem;
+  text-align: right;
+}
+.contacts-mini a {
+  font-size: 2.2rem;
+  text-decoration: none;
+  color: black;
+}
+.contacts-mini p {
+  font-size: 1.4rem;
+}
+.map {
+  margin-left: -15px;
+}
+.logo {
+  margin: 2rem auto;
+}
+.fhn {
+  margin-top: 2.4rem;
+}
+.fhn p {
+  font-size: 1.8rem;
+  display: inline-block;
+}
+.info {
+  text-align: center;
+  margin-top: 3.6rem;
+  font-size: 1.4rem;
+  color: #666;
+}
