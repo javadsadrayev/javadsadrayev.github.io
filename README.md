@@ -51,3 +51,5 @@
 [Урок 29](https://javadsadrayev.github.io/HomeWork/Lesson_25) - Практика. Верстаем схему работы и все включено
 
 [Урок 30](https://javadsadrayev.github.io/HomeWork/Lesson_26) - Гео-карты для сайта.
+
+[Урок 31](https://javadsadrayev.github.io/HomeWork/Lesson_27) - Практика. Верстаем блок "Развеиваем сомнения"
