@@ -53,3 +53,5 @@
 [Урок 30](https://javadsadrayev.github.io/HomeWork/Lesson_26) - Гео-карты для сайта.
 
 [Урок 31](https://javadsadrayev.github.io/HomeWork/Lesson_27) - Практика. Верстаем блок "Развеиваем сомнения"
+
+[Урок 33](https://javadsadrayev.github.io/HomeWork/Lesson_29) - Практика. Верстаем блок "Материалы"
