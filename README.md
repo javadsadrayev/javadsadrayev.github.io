@@ -55,3 +55,5 @@
 [Урок 31](https://javadsadrayev.github.io/HomeWork/Lesson_27) - Практика. Верстаем блок "Развеиваем сомнения"
 
 [Урок 33](https://javadsadrayev.github.io/HomeWork/Lesson_29) - Практика. Верстаем блок "Материалы"
+
+[Урок 34](https://javadsadrayev.github.io/HomeWork/Lesson_30) - Практика. Верстаем блок "Экскурсия" и "Доп. услуги"
